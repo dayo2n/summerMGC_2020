@@ -1,0 +1,45 @@
+/* 정렬(배치) 공부 */
+body,
+html {
+  height: 1500px;
+  margin: 0;
+  padding: 0;
+}
+.boxGreen {
+  height: 60px;
+  width: 150px;
+  background-color: #badd58;
+  position: fixed;
+  top: 80px;
+  right: 20%;
+}
+.boxPink {
+  height: 100px;
+  width: 100%;
+  background-color: #ed7677;
+  position: fixed;
+  top: 0px;
+}
+.boxBlue {
+  height: 1400px;
+  width: 100%;
+  padding-top: 100px;
+  background-color: #7ed6df;
+  position: relative;
+}
+.letter {
+  padding-top: 50px;
+  padding-left: 20px;
+}
+span {
+  color: white;
+  font: 90px bold;
+}
+.boxYellow {
+  height: 1386px;
+  width: 25%;
+  background-color: #facc33;
+  border: 7px solid grey;
+  position: absolute;
+  right: 0px;
+}
