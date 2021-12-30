@@ -9,4 +9,4 @@
 > 
 > 📁 ./text : 회고를 기록한 폴더
 > 
-> [완성작 repo](https://github.com/dayo2n/Mask-Keeper-Final)
+> [완성작 repo](https://github.com/bottomUP2020/Mask-Keeper)
