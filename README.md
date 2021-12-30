@@ -8,3 +8,5 @@
 > 🖍 활동 내용 : 2020 Bottom Up 출품을 위한 html/css 공부 및 구현
 > 
 > 📁 ./text : 회고를 기록한 폴더
+> 
+> [완성작 repo](https://github.com/dayo2n/Mask-Keeper-Final)
